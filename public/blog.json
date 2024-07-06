@@ -4,7 +4,7 @@
         "title": "The rise of ai: how it's changing the world",
         "cover": "https://i.ibb.co/YLB7629/Ai.jpg",
         "author": "john doe",
-        "author_img": "https://i.ibb.co/YLB7629/Ai.jpg",
+        "author_img": "https://i.ibb.co/pKfmK24/prof.png",
         "posted_date": "2024-06-15",
         "reading_time": 5,
         "hashtags": ["#ai", "#technology", "#future"]
@@ -12,9 +12,9 @@
     {
         "id": 2,
         "title": "10 tips for a healthier lifestyle",
-        "cover": "https://i.ibb.co/YLB7629/Ai.jpg",
+        "cover": "https://i.ibb.co/yfDZHzs/lifestyle.jpg",
         "author": "jane smith",
-        "author_img": "https://example.com/images/jane_smith.jpg",
+        "author_img": "https://i.ibb.co/pKfmK24/prof.png",
         "posted_date": "2024-05-20",
         "reading_time": 7,
         "hashtags": ["#health", "#wellness", "#lifestyle"]
@@ -22,9 +22,9 @@
     {
         "id": 3,
         "title": "Exploring the beauty of the amazon rainforest",
-        "cover": "https://i.ibb.co/YLB7629/Ai.jpg",
+        "cover": "https://i.ibb.co/6HVft9d/amazon.jpg",
         "author": "mark johnson",
-        "author_img": "https://example.com/images/mark_johnson.jpg",
+        "author_img": "https://i.ibb.co/pKfmK24/prof.png",
         "posted_date": "2024-04-10",
         "reading_time": 6,
         "hashtags": ["#travel", "#nature", "#adventure"]
@@ -32,9 +32,9 @@
     {
         "id": 4,
         "title": "Understanding blockchain technology",
-        "cover": "https://i.ibb.co/YLB7629/Ai.jpg",
+        "cover": "https://i.ibb.co/7n1mX5y/blockchain.jpg",
         "author": "linda brown",
-        "author_img": "https://example.com/images/linda_brown.jpg",
+        "author_img": "https://i.ibb.co/pKfmK24/prof.png",
         "posted_date": "2024-03-25",
         "reading_time": 8,
         "hashtags": ["#blockchain", "#technology", "#innovation"]
@@ -42,9 +42,9 @@
     {
         "id": 5,
         "title": "The future of electric vehicles",
-        "cover": "https://i.ibb.co/YLB7629/Ai.jpg",
+        "cover": "https://i.ibb.co/Wc4NfL8/electric-car.jpg",
         "author": "michael lee",
-        "author_img": "https://example.com/images/michael_lee.jpg",
+        "author_img": "https://i.ibb.co/pKfmK24/prof.png",
         "posted_date": "2024-02-18",
         "reading_time": 4,
         "hashtags": ["#electricvehicles", "#sustainability", "#automotive"]
