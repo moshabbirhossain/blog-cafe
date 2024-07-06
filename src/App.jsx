@@ -25,7 +25,7 @@ function App() {
     return (
         <>
             <Header />
-            <div className="md:flex space-x-16 my-4 mx-4 md:gap-6">
+            <div className="md:flex md:space-x-16 my-4 mx-4 md:gap-6">
                 <Blogs handleAddToBookmarks={handleAddToBookmarks} handleMarkAsRead={handleMarkAsRead}/>
                 <Bookmarks bookmarks={bookmarks} readingTime={readingTime}/>
             </div>
