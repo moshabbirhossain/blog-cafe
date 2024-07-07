@@ -3,7 +3,7 @@ import Bookmark from "../../Bookmark/Bookmark";
 
 const Bookmarks = ({ bookmarks, readingTime }) => {
     return (
-        <div className="bg-gray-300 md:w-1/3 rounded-lg">
+        <div className="bg-gray-300 md:w-1/3 rounded-lg pt-4 pb-6 mt-2 mb-4">
             <p className="text-xl text-center my-2">Total Reading Time: {readingTime}</p>
             <h1 className="text-xl text-center my-2">Bookmarks: {bookmarks.length}</h1>
             {bookmarks.map((bookmark) => (
